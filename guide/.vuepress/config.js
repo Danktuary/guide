@@ -1,7 +1,11 @@
 const config = {
 	title: 'Discord.js Guide',
 	description: 'A guide made by the community of discord.js for its users.',
+	theme: 'yuu',
 	themeConfig: {
+		yuu: {
+			colorThemes: ['blue', 'red'],
+		},
 		repo: 'discordjs/guide',
 		docsDir: 'guide',
 		sidebarDepth: 3,
