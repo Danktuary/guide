@@ -64,4 +64,6 @@ During your development you will likely run into `DiscordAPIError: Missing Permi
 - It is trying to execute a forbidden action on the server owner.
 - It is trying to execute an action based on another unfulfilled factor (for example reserved for partnered guilds). 
 
-<warning>The `ADMINISTRATOR` permission being granted does not skip any hierarchical check!</warning>
+::: warning
+The `ADMINISTRATOR` permission being granted does not skip any hierarchical check!
+:::
