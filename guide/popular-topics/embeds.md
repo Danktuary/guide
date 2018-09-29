@@ -9,7 +9,7 @@ In the following section we will explain how you compose an embed, send it, and 
 
 Here is an example of what an embed may look like. We will go over their construction in the next part of this guide.
 
-![Embed preview](/assets/img/ooaOAeu.png)
+![Embed preview](../assets/images/ooaOAeu.png)
 
 ## Using the RichEmbed constructor
 

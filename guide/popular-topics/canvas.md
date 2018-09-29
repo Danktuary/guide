@@ -107,7 +107,7 @@ client.on('guildMemberAdd', async member => {
 });
 ```
 
-![Basic canvas preview](/assets/img/8CQvVRV.png)
+![Basic canvas preview](../assets/images/8CQvVRV.png)
 
 If you get an error such as `Error: error while reading from input stream`, then the provided path to the file was incorrect.
 
@@ -137,7 +137,7 @@ client.on('guildMemberAdd', async member => {
 });
 ```
 
-![Image](/assets/img/2vsIPEP.png)
+![Image](../assets/images/2vsIPEP.png)
 
 A bit plain, right? Fear not, for you have a bit more to do until you reach completion. Since the goal of guide page is focused more on actual code than design, let's just place a basic square shaped avatar for now on the left side of the image. In interest of coverage, you will also make it a circle afterwards.
 
@@ -168,7 +168,7 @@ client.on('guildMemberAdd', async member => {
 });
 ```
 
-![Image](/assets/img/UCndZMo.png)
+![Image](../assets/images/UCndZMo.png)
 
 Works well, but the avatar image itself seems a bit stretched out. Let's remedy that.
 
@@ -197,7 +197,7 @@ client.on('guildMemberAdd', async member => {
 });
 ```
 
-![Image](/assets/img/9JfHooY.png)
+![Image](../assets/images/9JfHooY.png)
 
 The purpose of this small section is to demonstrate that working with Canvas is essentially a hit-and-miss workflow where you fiddle with properties until they work just right.
 
@@ -236,7 +236,7 @@ client.on('guildMemberAdd', async member => {
 });
 ```
 
-![Image](/assets/img/r6CiT3M.png)
+![Image](../assets/images/r6CiT3M.png)
 
 ::: tip
 You can read more about `ctx.arc()` on [w3schools](https://www.w3schools.com/tags/canvas_arc.asp) or [MDN](https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/arc).
@@ -282,7 +282,7 @@ client.on('guildMemberAdd', async member => {
 });
 ```
 
-![Image](/assets/img/3rLGb1s.png)
+![Image](../assets/images/3rLGb1s.png)
 
 If you get an error like `Fontconfig error: Cannot load default config file`, it means you do not have any fonts installed on your system. On Linux, you can run the following command to fix this: `sudo apt-get install fontconfig`. This might also need to be installed if you see boxes where the text should be. As for Windows, you will need to find a way to install fonts.
 
@@ -341,11 +341,11 @@ client.on('guildMemberAdd', async member => {
 
 Before adjustment:
 
-![Before adjustment](/assets/img/NKw7P2q.png)
+![Before adjustment](../assets/images/NKw7P2q.png)
 
 After adjustment:
 
-![After adjustment](/assets/img/Ja4Ywf4.png)
+![After adjustment](../assets/images/Ja4Ywf4.png)
 
 As a nice finishing touch, let's move the welcome text inside the image itself instead of adding it outside.
 
@@ -388,7 +388,7 @@ client.on('guildMemberAdd', async member => {
 });
 ```
 
-![Final result](/assets/img/DDzEgdZ.png)
+![Final result](../assets/images/DDzEgdZ.png)
 
 And that's it! We have covered the basics of image manipulation, text generation, and loading from a remote source.
 

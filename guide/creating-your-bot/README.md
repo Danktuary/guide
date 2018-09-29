@@ -86,7 +86,7 @@ if (message.content === '!ping') {
 
 Restart your bot and then send `!ping` to a channel your bot has access to. If all goes well, you should see something like this:
 
-![Ping pong command result](assets/img/byiSflM.png)
+![Ping pong command result](../assets/images/byiSflM.png)
 
 You've successfully created your first Discord bot command! Exciting stuff, isn't it? This is only the beginning, so let's move on to making some more commands.
 

@@ -132,7 +132,7 @@ Here, you are simply getting the first object from the array of objects called `
 
 If you've followed the tutorial, you should have something like this:
 
-![Basic Urban Command](/assets/img/N0t4M.png)
+![Basic Urban Command](../assets/images/N0t4M.png)
 
 Now, let's just make this an [embed](/popular-topics/miscellaneous-examples?id=sending-an-embed).
 
@@ -160,7 +160,7 @@ message.channel.send(embed);
 
 Now, if you do that same command again, you should get this:
 
-![Embeded Urban Command](/assets/img/RMv88.png)
+![Embeded Urban Command](../assets/images/RMv88.png)
 
 ## Resulting code
 
