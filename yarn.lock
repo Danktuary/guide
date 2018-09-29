@@ -6422,8 +6422,8 @@ vue-click-outside@^1.0.7:
   resolved "https://registry.yarnpkg.com/vue-click-outside/-/vue-click-outside-1.0.7.tgz#cdd2b1605e3c4944784e1794eae4a12a0f700bd6"
 
 vue-discord-message@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/vue-discord-message/-/vue-discord-message-1.0.1.tgz#9d841bc69c3f34e4509db3a3889c9d7c8579cd13"
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/vue-discord-message/-/vue-discord-message-1.1.0.tgz#34f31caf5a410ea7c44c6aa7a2f71fd219b3e186"
   dependencies:
     hex-to-rgba "^1.0.1"
 
