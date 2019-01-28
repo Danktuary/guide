@@ -1,3 +1,11 @@
+---
+meta:
+  - name: description
+    content: hello
+  - name: keywords
+    content: super duper SEO
+---
+
 # Introduction
 
 If you're reading this, it probably means you want to learn how make a bot with discord.js. Awesome! You've come to the right place.
