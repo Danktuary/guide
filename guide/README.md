@@ -4,6 +4,8 @@ meta:
     content: hello
   - name: keywords
     content: super duper SEO
+  - name: 'theme-color'
+    content: '#0099ff'
 ---
 
 # Introduction
