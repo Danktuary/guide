@@ -18,7 +18,7 @@ const config = {
 algolia: {
 	
 	apiKey: 'c8d9361fb8403f7c5111887e0edf4b5e', 
-indexName: 'discordjs', }
+indexName: 'discordjs', },
 
 		yuu: {
 			colorThemes: ['blue', 'red'],
