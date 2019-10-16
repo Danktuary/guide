@@ -1,3 +1,7 @@
+---
+description: In the following section we will explain how you compose an embed, send it, and what you need to be aware of while doing so.
+---
+
 # Embeds
 
 If you have been around on Discord for a bit chances are you have seen these special messages.
