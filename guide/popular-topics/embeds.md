@@ -2,7 +2,7 @@
 description: In the following section we will explain how you compose an embed, send it, and what you need to be aware of while doing so.
 meta:
 	- name: og:description
-	- content: In the following section we will explain how you compose an embed, send it, and what you need to be aware of while doing so.
+	  content: In the following section we will explain how you compose an embed, send it, and what you need to be aware of while doing so.
 ---
 
 # Embeds
